@@ -1,1 +1,1 @@
-# WWW-CDN
+# CDN
